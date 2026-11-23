@@ -1,1 +1,1 @@
-"# test 2" 
+"This project is for learning Git." 
